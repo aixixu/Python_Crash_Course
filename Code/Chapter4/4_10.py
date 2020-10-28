@@ -1,0 +1,8 @@
+odds = list(range(1,21,2))
+print(odds)
+print("The first three items in the list are:")
+print(odds[:3])
+print("Three items from the middle of the list:")
+print(odds[3:6])
+print("The last three items in the list are:")
+print(odds[-3:])
